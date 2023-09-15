@@ -1,16 +1,22 @@
-### Hi there 👋
+💫 About Me:
+🧠Atualmente estou estudando Css, Html, Java, me aperfeiçoando para Back-end.
+- 💻 A procura de oportunidade para somar junto a projetos e colegas de equipe.
+- ✍️Focado nos estudos de programação diariamente.
+- 🐶Gosto bastante de animais.
+- 🎮Sempre que possível também jogo video game.
+- 🌎 São Paulo - Capital.
 
-<!--
-**thiagolucenasantos/thiagolucenasantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Tech Stack:
+CSS3 HTML5 Java JavaScript
 
-Here are some ideas to get you started:
+📊 GitHub Stats:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+✍️ Random Dev Quote
+
+
+🔝 Top Contributed Repo
+
+
