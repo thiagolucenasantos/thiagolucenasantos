@@ -34,5 +34,4 @@
 
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/thiagolucenasantos/count.svg" /></p>
 
-![snake gif](https://github.com/thiagolucenasantos/thiagolucenasantos/blob/output/github-contribution-grid-snake.svg)
 
