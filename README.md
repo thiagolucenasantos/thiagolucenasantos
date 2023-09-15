@@ -7,16 +7,13 @@
 - 🌎 São Paulo - Capital.
 
 💻 Tech Stack:
-CSS3 HTML5 Java JavaScript
-
-📊 GitHub Stats:
+CSS3, HTML5, Java, JavaScript
 
 
 
-
-✍️ Random Dev Quote
-
-
-🔝 Top Contributed Repo
-
-
+<a href="https://github.com/thiagolucenasantos/github-readme-stats">
+  <img height=200  width= 400 align="center" src="https://github-readme-stats.vercel.app/api?username=thiagolucenasantos" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200  width = 400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagolucenasantos&layout=compact&langs_count=8&card_width=320" />
+</a>
