@@ -1,5 +1,5 @@
 💫 Sobre mim:
-🧠Atualmente estou estudando Css, Html, Java, me aperfeiçoando para Back-end.
+🧠Atualmente estou estudando Css, Html, Java, me aperfeiçoando para Back-end e futuramente me tornar um Full-Stack.
 - 💻 A procura de oportunidade para somar junto a projetos e colegas de equipe.
 - ✍️Focado nos estudos de programação diariamente.
 - 🐶Gosto bastante de animais.
