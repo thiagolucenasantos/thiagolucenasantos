@@ -31,7 +31,7 @@
 
 ## Status
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=thiagolucenasantos&theme=dark#gh-dark-mode-only&hide_border=false&include_all_commits=false&count_private=false" alt="cxyfreedom" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=thiagolucenasantos&theme=dark#gh-dark-mode-only&hide_border=false&include_all_commits=true&count_private=false" alt="cxyfreedom" /></p>
 <!--<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=thiagolucenasantos&theme=dark#gh-dark-mode-only&hide_border=false" alt="thiagolucenasantos" /></p> -->
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagolucenasantos&theme=dark#gh-dark-mode-only&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="thiagolucenasantos" /></p>
 
