@@ -35,8 +35,12 @@
 <!--<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=thiagolucenasantos&theme=dark#gh-dark-mode-only&hide_border=false" alt="thiagolucenasantos" /></p> -->
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagolucenasantos&theme=dark#gh-dark-mode-only&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="thiagolucenasantos" /></p>
 
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C349%20hrs%2011%20mins-blue)
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2141-blue)
+<!--
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/thiagolucenasantos/count.svg" /></p>
+-->
+<!--![Code Time](http://img.shields.io/badge/Code%20Time-3%2C349%20hrs%2011%20mins-blue)
+[Profile Views](http://img.shields.io/badge/Profile%20Views-2141-blue)
+->
 
 
 <!--
