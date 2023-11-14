@@ -42,7 +42,7 @@
 
 <h3 align="left">Conecte-se comigo!!</h3>
 <p align="left">
-  <a href="[https://www.linkedin.com/in/thiagojoselucena/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/thiagojoselucena/" target="blank"><img align="center"
     src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="azzar" height="30"/></a>
   <a href="mailto:tlucenajose@gmail.com" target="blank"><img align="center"
