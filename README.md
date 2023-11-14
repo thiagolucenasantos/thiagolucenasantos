@@ -56,6 +56,15 @@
 </p>
 
 
+<hr>
+<h3 align="left">Statistics</h3>
+  <p align="center">
+    <a href="https://github.com/thiagolucenasantos">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulooo0&langs_count=6&theme=gotham&layout=compact&count_private=true&show_icons=true&include_all_commits=true"
+      alt="thiagolucenasantos :: overall Top Langs " /></a>
+  </p>
+
+
 <!--
 ## Status
 
