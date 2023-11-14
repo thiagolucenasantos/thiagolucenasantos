@@ -40,12 +40,12 @@
  <a href="https://git-scm.com/" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://github.com" target="blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> 
 
-<h3 align="left">Conecte comigo!!</h3>
+<h3 align="left">Conecte-se comigo!!</h3>
 <p align="left">
-  <a href="[https://www.linkedin.com/in/paulo-h-nunes-b8278121a/](https://www.linkedin.com/in/thiagojoselucena/)" target="blank"><img align="center"
+  <a href="[https://www.linkedin.com/in/thiagojoselucena/" target="blank"><img align="center"
     src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="azzar" height="30"/></a>
-  <a href="tlucenajose@gmail.com" target="blank"><img align="center"
+  <a href="mailto:tlucenajose@gmail.com" target="blank"><img align="center"
     src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
     alt="azzar" height="30"/></a>
 <!--  <a href="https://wa.me/+551199999999" target="blank"><img align="center"
