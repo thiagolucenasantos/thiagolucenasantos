@@ -63,6 +63,15 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulooo0&langs_count=6&theme=gotham&layout=compact&count_private=true&show_icons=true&include_all_commits=true"
       alt="thiagolucenasantos :: overall Top Langs " /></a>
   </p>
+    <p align="center">
+      <a href="https://github.com/thiagolucenasantos/">
+        <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Paulooo0&theme=gotham&layout=compact&count_private=true&show_icons=true&include_all_commits=true"
+        alt="thiagolucenasantos :: Top Langs by repo" />
+        <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thiagolucenasantos&theme=gotham&layout=compact&count_private=true&show_icons=true&include_all_commits=true"
+        alt="thiagolucenasantos :: Top Langs by commit" />
+       </a>
+  </p>
+<hr>
 
 
 <!--
