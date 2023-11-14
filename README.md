@@ -64,13 +64,7 @@
       alt="thiagolucenasantos :: overall Top Langs " /></a>
   </p>
   <hr>
- <p align="center" >
-    <a href="https://github.com/thiagolucenasantos">
-    <img width="47.5%" src="https://github-readme-stats.vercel.app/api?username=thiagolucenasantos&show_icons=true&theme=gotham&count_private=true&include_all_commits=true" />
-    <img width="50.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagolucenasantos&theme=gotham&count_private=true&show_icons=true&include_all_commits=true" />
-    </a>
- </p>
-<br>
+ 
 
 <!--
 ## Status
