@@ -17,8 +17,8 @@
 <h3 align="left">Contate-me por e-mail: 📫 tlucenajose@gmail.com</h3>
 <p align="left"></p>
 
-<hr>
-<h3>Linguagens</h3> 
+
+<h3><u>Linguagens</u></h3> 
   <span>
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
