@@ -26,10 +26,10 @@
   </span>
 
   <hr>
-<h3>Banco de dados</h3> 
-  <span>  
+<h3>Banco de dados</h3>     
+
     ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-   </span>
+  
   
 
   <!--
@@ -40,6 +40,7 @@
      !-->
  <hr>
 <h3> Ferramentas </h3>
+
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
