@@ -15,23 +15,20 @@
 - 🌎 São Paulo - Capital.
 
 <h3 align="left">Contate-me por e-mail: 📫 tlucenajose@gmail.com</h3>
-<p align="left">
-</p>
+<p align="left"></p>
 
-<h3 align="left">Linguagens</h3>
-<p align="left"> 
+##Linguagens
   <span>
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-   
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   </span>
   
-<h3 align="left">Banco de dados</h3>
-<p align="left"> 
-  <span>
+##Banco de dados
+  <span>  
     ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  </span>
+   </span>
+  
 
   <!--
    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
