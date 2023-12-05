@@ -72,6 +72,7 @@
 </p>
 
 
+<!--
 <hr>
 <h3 align="left">Statistics</h3>
   <p align="center">
@@ -80,6 +81,7 @@
       alt="thiagolucenasantos :: overall Top Langs " /></a>
   </p>
   <hr>
+  -->
  
 
 <!--
