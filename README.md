@@ -7,7 +7,7 @@
 <h1 align="center">Olá 👋, Eu sou o Thiago</h1>
 <h3 align="center">🧠Atualmente estou estudando Java, me aperfeiçoando para Back-end e futuramente me tornar um Full-Stack.</h3>
 
-- 🌱Estudando diariamente **Java.**
+- 🌱Estudando diariamente **Java e Kotlin.**
 - 💻 A procura de oportunidade para somar junto a projetos e colegas de equipe.
 - ✍️Focado nos estudos de programação diariamente.
 - 🐶Gosto bastante de animais.
