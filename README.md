@@ -34,6 +34,8 @@
    ![Postgresql](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   <img src="https://img.shields.io/badge/MongoDB-9ACD32?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/sql-%23007ACC.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQLWorkbench-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 
 
   
