@@ -28,7 +28,7 @@
 <!--     <img src = "https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"> -->    
   </span>
 
- <hr>
+ <span>
  <h3> Banco de Dados </h3>
   <img src="https://img.shields.io/badge/sql-%23007ACC.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white">
   <img src="https://img.shields.io/badge/MySQLWorkbench-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
@@ -48,7 +48,7 @@
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </p>
      !-->
- <hr>
+ </span>
 <h3> Ferramentas </h3>
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
