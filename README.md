@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Olá 👋, Eu sou o Thiago</h1>
-<h3 align="center">🧠Atualmente estou estudando Java, me aperfeiçoando para Back-end, porém gostando muito do Front End!!.</h3>
+<h3 align="center">🧠Atualmente estou estudando programação.</h3>
 
 - 🌱Estudando diariamente **programação.** 
 - 💻 A procura de oportunidade para somar junto a projetos e colegas de equipe.
