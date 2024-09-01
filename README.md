@@ -20,22 +20,22 @@
 
 <h3><u>Linguagens</u></h3> 
   <span>
+    <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
      <img src="https://img.shields.io/badge/JavaScript-DC143C?style=for-the-badge&logo=javascript&logoColor=white">
-    <img src = "https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
-    <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
+<!--     <img src = "https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"> -->    
   </span>
 
  <hr>
  <h3> Banco de Dados </h3>
-
+  <img src="https://img.shields.io/badge/sql-%23007ACC.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQLWorkbench-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
    ![Postgresql](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   <img src="https://img.shields.io/badge/MongoDB-9ACD32?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/sql-%23007ACC.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQLWorkbench-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+
 
 
   
