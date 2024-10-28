@@ -5,9 +5,9 @@
 
 
 <h1 align="center">Olá 👋, Eu sou o Thiago</h1>
-<h3 align="center">🧠Atualmente estou estudando programação.</h3>
+<h3 align="center">🧠Atualmente estou estudando programação e análise de dados.</h3>
 
-- 🌱Estudando diariamente **programação.** 
+- 🌱Estudando diariamente **programação e análise de dados.** 
 - 💻 A procura de oportunidade para somar junto a projetos e colegas de equipe.
 - ✍️Focado nos estudos de programação diariamente.
 - 🐶Gosto bastante de animais.
